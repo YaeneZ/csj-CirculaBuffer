@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CircularBuffer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d7109f2964a1dce6d8d09a7ebdeea96c5207036")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+281097f368a4f73c319b937d29390b28c184a25a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CircularBuffer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CircularBuffer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
