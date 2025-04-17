@@ -1,0 +1,15 @@
+/home/yaene/learnVim/cs/CircularBuffer/bin/Debug/net8.0/CircularBuffer
+/home/yaene/learnVim/cs/CircularBuffer/bin/Debug/net8.0/CircularBuffer.deps.json
+/home/yaene/learnVim/cs/CircularBuffer/bin/Debug/net8.0/CircularBuffer.runtimeconfig.json
+/home/yaene/learnVim/cs/CircularBuffer/bin/Debug/net8.0/CircularBuffer.dll
+/home/yaene/learnVim/cs/CircularBuffer/bin/Debug/net8.0/CircularBuffer.pdb
+/home/yaene/learnVim/cs/CircularBuffer/obj/Debug/net8.0/CircularBuffer.GeneratedMSBuildEditorConfig.editorconfig
+/home/yaene/learnVim/cs/CircularBuffer/obj/Debug/net8.0/CircularBuffer.AssemblyInfoInputs.cache
+/home/yaene/learnVim/cs/CircularBuffer/obj/Debug/net8.0/CircularBuffer.AssemblyInfo.cs
+/home/yaene/learnVim/cs/CircularBuffer/obj/Debug/net8.0/CircularBuffer.csproj.CoreCompileInputs.cache
+/home/yaene/learnVim/cs/CircularBuffer/obj/Debug/net8.0/CircularBuffer.sourcelink.json
+/home/yaene/learnVim/cs/CircularBuffer/obj/Debug/net8.0/CircularBuffer.dll
+/home/yaene/learnVim/cs/CircularBuffer/obj/Debug/net8.0/refint/CircularBuffer.dll
+/home/yaene/learnVim/cs/CircularBuffer/obj/Debug/net8.0/CircularBuffer.pdb
+/home/yaene/learnVim/cs/CircularBuffer/obj/Debug/net8.0/CircularBuffer.genruntimeconfig.cache
+/home/yaene/learnVim/cs/CircularBuffer/obj/Debug/net8.0/ref/CircularBuffer.dll
